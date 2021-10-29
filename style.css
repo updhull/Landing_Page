@@ -9,7 +9,7 @@ li{
 }
 .home{
      
-    height: 600px;
+    height: auto;
     background-image: url(/Images/pexels-creative-vix-9754.jpg);
     background-size: cover;
 }
@@ -24,4 +24,21 @@ img{
     border-radius: 50%;
     margin-left: 50px;
     margin-top: 100px;
+}
+.paragraph{
+    position: absolute;
+    right: 600px;
+    transform:translate( 400px,-400px);
+    color:blue;
+    font-size: larger;
+}
+h3{
+    font-size: bold;
+    font-weight: 600;
+}
+span{
+    font-size: x-large;
+}
+paragraph > p {
+    width: 50%;
 }
