@@ -1,11 +1,6 @@
 .navigation{
     position: absolute;
     right: 50px;
-    
-    
-    /* width: 100%; */
-    /* height: auto; */
-    
 }
 li{
    display: inline;
@@ -13,9 +8,16 @@ li{
    margin-top: 0;
 }
 .home{
-    background-color: #668cff;
+     
     height: 600px;
-
+    background-image: url(/Images/pexels-creative-vix-9754.jpg);
+    background-size: cover;
+}
+li > a {
+    font-size: xx-large;
+}
+a:hover{
+    color: red;
 }
 
 img{
