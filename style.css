@@ -20,7 +20,7 @@ a:hover{
     color: red;
 }
 
-img{
+#home img{
     border-radius: 50%;
     margin-left: 50px;
     margin-top: 100px;
@@ -53,10 +53,20 @@ h4{
     color: blue;
     margin-top: 0px;
 }
-ul li{
+ol li{
     display: block;
+}
+.developer{
+    text-align: center;
+    font-size: large;
 }
 /* styling the about me */
 #about{
     background-color: #D9DAD4;
+}
+#about img{
+    position: absolute;
+    right: 50px;
+    margin-top: -80px;
+    border-radius: 80%;
 }
