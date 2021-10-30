@@ -7,7 +7,7 @@ li{
    padding: 20px;
    margin-top: 0;
 }
-.home{
+#home{
      
     height: auto;
     background-image: url(/Images/pexels-creative-vix-9754.jpg);
@@ -41,4 +41,15 @@ span{
 }
 paragraph > p {
     width: 50%;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: hidden;
+}
+/* styling the about me */
+h4{
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+    margin-top: 0px;
 }
