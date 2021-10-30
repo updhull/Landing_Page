@@ -44,7 +44,7 @@ paragraph > p {
 }
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 /* styling the about me */
 h4{
@@ -52,4 +52,7 @@ h4{
     font-size: xx-large;
     color: blue;
     margin-top: 0px;
+}
+ul li{
+    display: block;
 }
