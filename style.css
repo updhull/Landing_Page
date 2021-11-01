@@ -9,7 +9,7 @@ li{
 }
 #home{
      
-    height: auto;
+    height: 590px;
     background-image: url(/Images/pexels-creative-vix-9754.jpg);
     background-size: cover;
 }
@@ -27,21 +27,26 @@ a:hover{
 }
 .paragraph{
     position: absolute;
-    right: 600px;
-    transform:translate( 400px,-400px);
-    color:blue;
+    right: 1000px;
+    transform:translate( 600px,-500px);
+    color:white;
     font-size: larger;
+    margin-top: 100px;
 }
 h3{
-    font-size: bold;
-    font-weight: 600;
+    font-size: xx-large;
+     font-style: italic;
 }
+.paragraph p {
+    font-size: xx-large;
+     /* font-style: italic; */
+}
+
 span{
-    font-size: x-large;
+    font-size: xx-large;
+    font-style: italic;
 }
-paragraph > p {
-    width: 50%;
-}
+ 
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* overflow: hidden; */
@@ -69,4 +74,7 @@ ol li{
     right: 50px;
     margin-top: -80px;
     border-radius: 80%;
+}
+#about p {
+    width: 67%;
 }
