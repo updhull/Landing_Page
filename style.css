@@ -50,6 +50,7 @@ span{
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* overflow: hidden; */
+    /* color: white; */
 }
 
 h4{
@@ -77,5 +78,9 @@ ol li{
 }
 #about p {
     width: 67%;
-    font-size: large;
+    /* font-size: large; */
+}
+ol li {
+    padding : 0px;
+    margin-top: 10px;
 }
