@@ -89,7 +89,14 @@ a:hover{
 }
 
 /*  styling the contact section */
-#contact{
-    
-}
+#contact a img {
+    display: flex;
+    flex-direction: column;
 
+}
+#contact{
+    background-color: #D9DAD4;
+}
+#contact p {
+    display: flex;
+}
