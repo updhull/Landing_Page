@@ -18,10 +18,7 @@ ul li{
 li > a {
     font-size: xx-large;
 }
-a:hover{
-    color: red;
-}
-
+ 
 #home img{
     border-radius: 50%;
     margin-left: 50px;
@@ -31,7 +28,7 @@ a:hover{
     position: absolute;
     right: 1000px;
     transform:translate( 600px,-500px);
-    color:white;
+    /* color:blue; */
     font-size: larger;
     margin-top: 100px;
 }
@@ -88,7 +85,11 @@ h4{
     margin-top: 10px;
 }*/
 a:hover{
-    color: red;
+    color:red !important;
+}
 
+/*  styling the contact section */
+#contact{
+    
 }
 
