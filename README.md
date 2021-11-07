@@ -1,7 +1,6 @@
 # Landing_Page
 + [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
+ + [Technology Used](#technology-used)
 
 ## Description
 This is a Landing Page Portfolio.It was created by Abdullahi Abdi Ismail.
