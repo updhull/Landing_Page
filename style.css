@@ -2,16 +2,18 @@
     position: absolute;
     right: 50px;
 }
-li{
+ul li{
    display: inline;
    padding: 20px;
    margin-top: 0;
 }
+
 #home{
      
     height: 590px;
-    background-image: url(/Images/pexels-creative-vix-9754.jpg);
+    background-image: url(/Landing_Page/Images/pexels-creative-vix-9754.jpg);
     background-size: cover;
+    /* background-color: red; */
 }
 li > a {
     font-size: xx-large;
@@ -59,9 +61,10 @@ h4{
     color: blue;
     margin-top: 0px;
 }
-ol li{
+/*ol li{
     display: block;
 }
+*/
 .developer{
     text-align: center;
     font-size: large;
@@ -80,7 +83,12 @@ ol li{
     width: 67%;
     /* font-size: large; */
 }
-ol li {
+/*ol li {
     padding : 0px;
     margin-top: 10px;
+}*/
+a:hover{
+    color: red;
+
 }
+
