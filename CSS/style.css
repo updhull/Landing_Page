@@ -17,6 +17,7 @@ ul li{
 }
 li > a {
     font-size: xx-large;
+    /* font-stretch: 5px; */
 }
  
 #home img{
